@@ -38,7 +38,7 @@ namespace aspnet
     <title>Powered By Paketo Buildpacks</title>
   </head>
   <body>
-  <h2> Welcome PFMS Team - This is your demo ASP.Net </br> Running on TKG Kubernetes Cluster on .Net Core!!</h2>
+  <h2> Welcome Team - This is your demo ASP.Net </br> Running on TKG Kubernetes Cluster on .Net Core!!</h2>
   </body>
 </html>");
                 });
