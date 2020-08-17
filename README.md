@@ -4,7 +4,7 @@ A collection of sample applications that can be built using Paketo Buildpacks.
 
 ## Prerequisites
 
-1. Clone this repository: `git clone https://github.com/paketo-buildpacks/samples`
+1. Clone this repository: `git clone https://github.com/rajivmca2004/paketo-buildpacks/samples`
 1. [Pack](https://buildpacks.io/docs/install-pack/)
 
 ## Samples
